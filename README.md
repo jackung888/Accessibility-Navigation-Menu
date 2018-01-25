@@ -1,6 +1,6 @@
 # Accessibility-Navigation-Menu
 version 2018.24.01 by Jack Ung  https://github.com/jackung888
-lisence: free to use.
+Liscence: free to use.
 
 Navigate the menu bar with tab and arrow keys (up, down, left, right)
 
